@@ -1,4 +1,4 @@
-Badwords PHP extension
+Badwords PHP extension -- test
 ======================
 
 Badwords is a PHP extension for fast replacement of multiple words in a piece of text. It supports case-sensitive and case-insensitive matching. It requires that the text it operates on be encoded as UTF-8 and/or GBK.
